@@ -1,0 +1,59 @@
+HELP.md
+
+# Maven / Spring Boot
+target/
+build/
+out/
+*.class
+*.log
+logs/
+log/
+hs_err_pid*
+replay_pid*
+
+# Keep Maven wrapper jar tracked
+.mvn/wrapper/maven-wrapper.jar
+
+# Local configuration and secrets
+.env
+.env
+!.env
+application-local.properties
+application-dev.properties
+application-secrets.properties
+src/main/resources/application-local.properties
+src/main/resources/application-dev.properties
+src/main/resources/application-secrets.properties
+src/main/resources/application.properties
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.project
+.classpath
+.factorypath
+.apt_generated/
+.springBeans
+.sts4-cache/
+
+# NetBeans
+nbproject/private/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated folders inside source trees should stay visible
+!**/src/main/**/target/
+!**/src/test/**/target/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+.env/
+application.properties/
