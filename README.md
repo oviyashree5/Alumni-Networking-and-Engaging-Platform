@@ -1,4 +1,4 @@
-# Alumni Networking & Tracking Platform — Backend
+# Alumni Networking & Tracking Platform - Backend
 
 A secure and scalable REST API backend for the **Alumni Networking & Tracking Platform**, developed to support alumni engagement, mentorship, events, announcements, community interaction, and institutional alumni management.
 
@@ -340,11 +340,11 @@ The backend will then be available on the configured Spring Boot port.
 
 This repository contains the **backend** of the Alumni Networking & Tracking Platform.
 
-**Frontend:**
-`<[YOUR-FRONTEND-REPOSITORY-URL](https://github.com/oviyashree5/Alumni-Networking-Portal/tree/main)>`
+Frontend:
+https://github.com/oviyashree5/Alumni-Networking-Portal/tree/main
 
-**Backend:**
-`<https://github.com/oviyashree5/Alumni-Networking-and-Engaging-Platform/new/main?filename=README.md>`
+Backend:
+https://github.com/oviyashree5/Alumni-Networking-and-Engaging-Platform/tree/main
 
 The frontend and backend are maintained as separate repositories and work together through REST APIs.
 
@@ -359,5 +359,13 @@ Developed as a collaborative academic project to improve alumni engagement, comm
 **Java • Spring Boot • Spring Security • JWT • Google OAuth • MySQL • Redis • Maven • REST API**
 
 ---
+
+## Team
+
+This project was developed as part of an academic team of three members:
+
+- **Oviyashree T**
+- **Iswarya P**
+- **Farhanathu Saqthiya S**
 
 ⭐ If you find this project useful, feel free to explore the repository and the related frontend project.
